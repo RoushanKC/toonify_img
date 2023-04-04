@@ -1,5 +1,8 @@
 <h1>toonify_img</h1>
 An intresting attempt to <b>tonnify</b> images using python and tensorflow.
+<br>
+![TOONIFY](https://github.com/RoushanKC/toonify_img/blob/master/TOONIFY.png?raw=true)
+
 <h3>Basic approach</h3>
 <ol type="1">
     <li>Extract faces and align the images</li>
