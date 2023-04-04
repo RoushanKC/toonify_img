@@ -1,7 +1,8 @@
 <h1>toonify_img</h1>
 An intresting attempt to <b>tonnify</b> images using python and tensorflow.
-<br>
-![TOONIFY](https://github.com/RoushanKC/toonify_img/blob/master/TOONIFY.png?raw=true)
+
+
+![toonified_image](https://user-images.githubusercontent.com/54498757/229756665-31fb174b-59ad-437e-a000-02848b625c2a.jpg)
 
 <h3>Basic approach</h3>
 <ol type="1">
